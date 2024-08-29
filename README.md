@@ -1,8 +1,6 @@
-easy way to quickly get the global engagement score of a fid
 
-
-Usage:
-
+# Wat
+easy way to quickly see if a Farcaster username's global engagement score of a fid via [Karma 3 labs](https://graph.cast.k3l.io/docs#/) is over a given cutoff. this also uses [Neynar](https://neynar.com/)
 ## Install 
 chmod +x v_user && npm i && npm install -g .
 
